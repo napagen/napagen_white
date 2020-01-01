@@ -1,3 +1,4 @@
+<<<<<<<
 {
   "name": "napagen_white",
   "version": "1.0.0",
@@ -20,3 +21,33 @@
     "gulp-cli": "^2.2.0"
   }
 }
+
+=======
+{
+  "name": "napagen_white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napagen/napagen_white.git"
+  },
+  "author": "napagen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/napagen/napagen_white/issues"
+  },
+<<<<<<< HEAD
+  "homepage": "https://github.com/napagen/napagen_white#readme",
+  "devDependencies": {
+    "gulp-cli": "^2.2.0"
+  }
+=======
+  "homepage": "https://github.com/napagen/napagen_white#readme"
+>>>>>>> 0febf641aa5d2d4205e68b6d38c16a8e76af7db1
+}
+
+>>>>>>>
